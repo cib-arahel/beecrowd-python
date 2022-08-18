@@ -1,3 +1,5 @@
+#dividindo x por y
+
 N = int(input())
 
 for i in range (N):
